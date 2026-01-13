@@ -1,0 +1,10 @@
+
+jupyter
+notebook
+ipykernel
+
+tensorflow==2.13.1
+tf-keras==2.13.0
+retinface   
+opencv-python
+numpy
